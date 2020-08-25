@@ -687,7 +687,7 @@ button.btn.toggle-btn:focus {
   font-weight: 700;
   float: right;
   margin-bottom: 0;
-  margin-right: -218px;
+  margin-right: -205px;
   position: absolute;
   bottom: 17px;
   right: 16px;
@@ -881,4 +881,12 @@ input[type=submit]:hover {
 }
 .dark-mode .container {
   color: white;
+}
+
+.ads {
+  float: right;
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  
 }
